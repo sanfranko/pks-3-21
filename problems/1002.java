@@ -9,7 +9,7 @@ public class Main {
         double pi = 3.14159;
         double area = pi * radius * radius;
 
-        System.out.printf("A=%.4f\n", area);
+        System.out.println("A=%.4f\n", area);
 
     }
 }
